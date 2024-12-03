@@ -1,0 +1,16 @@
+app/
+├── _layout.tsx
+├── index.tsx
+├── dashboard/
+│   ├── _layout.tsx
+│   ├── index.tsx
+│   ├── cases.tsx
+│   ├── evidence.tsx
+│   ├── arbitrator.tsx
+│   └── profile.tsx
+├── modals/
+│   ├── create-case.tsx
+│   └── wallet-connect.tsx
+└── utils/
+    ├── web3.ts
+    └── types.ts
